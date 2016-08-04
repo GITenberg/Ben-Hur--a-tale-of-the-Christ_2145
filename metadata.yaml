@@ -1,0 +1,78 @@
+_repo: Ben-Hur--a-tale-of-the-Christ_2145
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wallace, Lew
+    alias: Wallace, Lewis
+    birthdate: 1827
+    deathdate: 1905
+    gutenberg_agent_id: '836'
+    url: http://www.gutenberg.org/2009/agents/836
+    wikipedia: http://en.wikipedia.org/wiki/Lew_Wallace
+description: "Ben-Hur: A Tale of the Christ is a novel by Lew Wallace published by\
+  \ Harper & Brothers on November 12, 1880, and considered \"the most influential\
+  \ Christian book of the nineteenth century\". It became a best-selling American\
+  \ novel, surpassing Harriet Beecher Stowe's Uncle Tom's Cabin (1852) in sales. The\
+  \ book also inspired other novels with biblical settings and was adapted for the\
+  \ stage and motion picture productions. Ben-Hur remained at the top of the bestseller\
+  \ lists until the publication of Margaret Mitchell's Gone with the Wind (1936).\
+  \ The 1959 MGM film adaptation of Ben-Hur was seen by tens of millions and won eleven\
+  \ Academy Awards in 1960, after which the book's sales increased and it surpassed\
+  \ Gone with the Wind. The novel was blessed by Pope Leo XIII, the first work of\
+  \ fiction to be so honored. The success of the novel and its stage and film adaptations\
+  \ also helped it to become a popular cultural icon that was used to promote numerous\
+  \ commercial products.\nThe story recounts in descriptive detail the adventures\
+  \ of Judah Ben-Hur, a fictional Jewish prince from Jerusalem who is enslaved by\
+  \ the Romans at the beginning of the 1st century and becomes a charioteer and a\
+  \ Christian. Running in parallel with Judah's narrative is the unfolding story of\
+  \ Jesus, who comes from the same region and is a similar age. The novel reflects\
+  \ themes of betrayal, conviction, and redemption, with a revenge plot that leads\
+  \ to a story of love and compassion.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Movie Books
+- Historical Fiction
+gutenberg_issued: '2000-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2145'
+  wikidata: Q816528
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tiberius, Emperor of Rome 42 B.C.-37 A.D. -- Fiction'
+- !lcsh 'Bible. New Testament -- History of Biblical events -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Christian fiction'
+- !lcsh 'Rome -- History -- Tiberius, 14-37 -- Fiction'
+- !lcsh 'Jesus Christ -- Fiction'
+- !lcsh 'Historical fiction'
+- GITenberg
+title: Ben-Hur; a tale of the Christ
+url: http://www.gutenberg.org/ebooks/2145
+wikipedia:
+- https://fa.wikipedia.org/wiki/%D8%A8%D9%86_%D9%87%D9%88%D8%B1:_%D9%82%D8%B5%D9%87%E2%80%8C%D8%A7%DB%8C_%D8%A7%D8%B2_%D9%85%D8%B3%DB%8C%D8%AD
+- https://uk.wikipedia.org/wiki/%D0%91%D0%B5%D0%BD-%D0%93%D1%83%D1%80:_%D1%80%D0%BE%D0%B7%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D1%96_%D0%BF%D1%80%D0%BE_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B0
+- https://el.wikipedia.org/wiki/%CE%9C%CF%80%CE%B5%CE%BD_%CE%A7%CE%BF%CF%85%CF%81
+- https://it.wikisource.org/wiki/Ben_Hur
+- https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%BC
+- https://pt.wikipedia.org/wiki/Ben-Hur:_A_Tale_of_the_Christ_(livro)
+- https://es.wikipedia.org/wiki/Ben-Hur_(novela)
+- https://sk.wikipedia.org/wiki/Ben_Hur_(kniha)
+- https://en.wikipedia.org/wiki/Ben-Hur:_A_Tale_of_the_Christ
+- https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BD-%D0%93%D1%83%D1%80:_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B0
+- https://ro.wikipedia.org/wiki/Ben_Hur_(roman)
+- https://ko.wikipedia.org/wiki/%EB%B2%A4%ED%97%88_(%EC%86%8C%EC%84%A4)
+- https://fr.wikipedia.org/wiki/Ben-Hur_(roman)
+- https://sh.wikipedia.org/wiki/Ben-Hur:_A_Tale_of_the_Christ
+- https://pl.wikipedia.org/wiki/Ben_Hur_(powie%C5%9B%C4%87)
+- https://da.wikipedia.org/wiki/Ben-Hur
+- https://simple.wikipedia.org/wiki/Ben-Hur:_A_Tale_of_the_Christ
+- https://ar.wikipedia.org/wiki/%D8%A8%D9%86_%D9%87%D9%88%D8%B1:_%D8%AD%D9%83%D8%A7%D9%8A%D8%A9_%D8%B9%D9%86_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD
+- https://nl.wikipedia.org/wiki/Ben-Hur_(roman)
+- https://cs.wikipedia.org/wiki/Ben_Hur:_P%C5%99%C3%ADb%C4%9Bh_Krist%C5%AFv
+- https://de.wikipedia.org/wiki/Ben_Hur_(Roman)
+- https://it.wikipedia.org/wiki/Ben-Hur_(romanzo)
+- https://ca.wikipedia.org/wiki/Ben-Hur:_A_Tale_of_the_Christ
+- https://he.wikipedia.org/wiki/%D7%91%D7%9F_%D7%97%D7%95%D7%A8_(%D7%A1%D7%A4%D7%A8)
