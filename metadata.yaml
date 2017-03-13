@@ -1,5 +1,8 @@
 _repo: Ben-Hur--a-tale-of-the-Christ_2145
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wallace, Lew
@@ -28,6 +31,8 @@ description: "Ben-Hur: A Tale of the Christ is a novel by Lew Wallace published 
   \ Jesus, who comes from the same region and is a similar age. The novel reflects\
   \ themes of betrayal, conviction, and redemption, with a revenge plot that leads\
   \ to a story of love and compassion.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2145#Ben-Hur--a-tale-of-the-Christ
 gutenberg_bookshelf:
 - Movie Books
 - Historical Fiction
